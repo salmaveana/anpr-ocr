@@ -1,0 +1,1 @@
+from .anpr import ANPR
